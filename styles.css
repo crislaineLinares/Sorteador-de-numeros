@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+img {
+    text-align: center;
+    display: block;
+    max-width: 250px;
+    max-height: 550px;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+section {
+    text-align: center;
+    display: block;
+    max-width: 600px;
+    max-height: 550px;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+h1 {
+    font-family: "Jersey 15", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 85px;
+    color: aliceblue;
+}
+
+h2 {
+    line-height: 60px;
+    font-size: 45px;
+    color: aliceblue;
+}
+
+div {
+    align-items: center;
+    font-size: 28px;
+    margin: 30px;
+}
+
+input {
+    height: 35px;
+    padding: 3%;
+    background-color: aliceblue;
+    border-color: #FFD700;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button {
+    color: aliceblue;
+    border-color: aliceblue;
+    background-color: aliceblue;
+    border-color: #FFD700;
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 25px;
+    padding: 3%;
+    text-align: center;
+}
